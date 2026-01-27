@@ -1,0 +1,2 @@
+class UniqueIntegers:
+    pass
