@@ -14,6 +14,7 @@ Foreleser Martin Skjelvareid
 - Analysert som tre
 - Implementere en rekursiv algoritme
 
-## Pytest
+
+## Pytest (rakk ikke) 
 - Grunnleggende syntaks
 - Eksempler
