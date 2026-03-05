@@ -22,5 +22,10 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |             9 |       16 |     Git, GitHub Education og utlevering av oblig 2 |      8 tirsdag |
 |            10 |       16 |                                         AI-verktøy |       8 fredag |
 |            11 |       19 |            When to use Object-Oriented Programming |      9 tirsdag |
-|            12 |        - |                             Programmer's toolchest |     10 tirsdag |
-|            13 |    18-21 |                Oppsummering og praktiske eksempler |     11 tirsdag |
+|            12 |        16,22 |                             Programmer's toolchest |     10 tirsdag |
+|            - |     |                Ingen forelesning, forelesere på seminar |     11 tirsdag |
+|            13 |    15,17 |                Klassedesign, kohesjon, kobling |     12 tirsdag |
+|            14 |     |                Presentasjon av oblig 3 |     12 fredag |
+|            15 |    15,17 |                Objektorientert design, requirements, et større system |     13 tirsdag |
+|            - |    15,17 |                Påske - ingen forelesning |     14 tirsdag |
+|            13 |    15,17 |                Når skal man bruke OOP? |     15 tirsdag |
