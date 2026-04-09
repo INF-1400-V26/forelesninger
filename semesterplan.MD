@@ -29,3 +29,4 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |            15 |    15,17 |                        Når skal man bruke OOP?     |     13 tirsdag |
 |            -  |          |                          Påske - ingen forelesning |     14 tirsdag |
 |            16 |    15,17 |  Objektorientert design, requirements, et større system |15 tirsdag |
+|            17 |    15,17 |  Exam prep - gjennomgang av eksamen V24 |16 tirsdag |
